@@ -16,12 +16,14 @@ function App() {
         <p style={{fontSize:'80%', opacity: 0.7}}><div>Learn more about DeCash at <a
           className="App-link"
           href="https://decash.com"
+          rel="noopener noreferrer"
           target="_blank"
         >
           decash.com
         </a> 💎</div><div>Start building with DeCash at <a
           className="App-link"
           href="https://docs.decash.com"
+          rel="noopener noreferrer"
           target="_blank"
         >
           docs.decash.com
