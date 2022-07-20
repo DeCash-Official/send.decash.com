@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[673],{28:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/transactions",function(){return t(8434)}])},8434:function(n,u,t){"use strict";t.r(u),t.d(u,{default:function(){return r.M}});var r=t(9068)}},function(n){n.O(0,[536,242,774,888,179],(function(){return u=28,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
